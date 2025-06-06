@@ -133,4 +133,4 @@ The final version of the Java code (provided earlier) was refined with the assis
 The output of the recommendation system shows a list of recommended items for a given user based on their similarity to others in the dataset. For example, if Alice hasn't rated Item4, but similar users like Bob or Charlie rated it highly, it will be recommended to Alice.
 
 
-OUTPUT: 
+OUTPUT: ![Image](https://github.com/user-attachments/assets/3d0a6eaf-f878-400b-a651-2bde5e3fc356)
